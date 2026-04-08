@@ -1,4 +1,6 @@
 [
   {"name": "Hanisha", "role": "Developer"},
-  {"name": "John", "role": "Tester"}
+  {"name": "John", "role": "Tester"},
+  {"name": "Tina", "role": "Developer"}
+
 ]
