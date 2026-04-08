@@ -1,6 +1,6 @@
 [
   {"name": "Hanisha", "role": "Developer"},
-  {"name": "Johnson", "role": "Developer"},
+  {"name": "Johnson", "role": "old_data"},
   {"name": "Tina", "role": "Developer"}
 
 ]
